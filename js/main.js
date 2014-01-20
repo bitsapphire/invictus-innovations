@@ -307,3 +307,5 @@ $(document).ready(function(){
 
 document.createElement("article");
 document.createElement("section");
+
+$('.subpagecontent .links').portamento({gap: 100});
